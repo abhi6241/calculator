@@ -2,6 +2,8 @@
 
 A fully functional web-based calculator built using HTML, CSS, and JavaScript.
 
+🌐 Live Demo: https://abhi6241.github.io/calculator/
+
 This project focuses on clean state management, proper handling of edge cases, and realistic calculator behavior similar to a real calculator.
 
 ---
